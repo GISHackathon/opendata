@@ -12,17 +12,21 @@ https://opendata.plzen.eu/dataset?_tags_limit=0
 
 http://blog.clevermaps.cz/post/136189567280/představujeme-žebř%C3%ADček-otevřenosti-slovenských
 
+### Brno
+https://datahub.io/organization/statutarni-mesto-brno
+
 ### Praha
-
-
 http://www.geoportalpraha.cz/cs/opendata
 
 http://opendata.praha.eu/
 
 https://unicam.camea.cz/Discoverer/BikeCounter/index
 
-### Brno
-https://datahub.io/organization/statutarni-mesto-brno
+### Plzeň
+https://opendata.plzen.eu
+
+## Infrastruktura
+http://geoportal.rsd.cz/web
 
 ## Statistiky
 
