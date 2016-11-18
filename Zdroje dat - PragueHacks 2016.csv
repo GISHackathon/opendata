@@ -1,0 +1,78 @@
+Obsah / typ dat,Licence,Počet datasetů,Link,Poskytovatel dat
+MOBILITA & OBYVATELSTVO,,,,
+"Jízdní řády, statistiky prodaných jízdenek a změny v dopravě",otevřená data,7,http://opendata.praha.eu/dataset?tags=ve%C5%99ejn%C3%A1+doprava&organization=dpp&_tags_limit=0,Dopravní podnik hl. m. Prahy
+Vstupy a tarifní pásma PID,otevřená data,3,http://opendata.praha.eu/dataset?tags=ve%C5%99ejn%C3%A1+doprava&organization=ropid&_tags_limit=0,Ropid
+Poloha vozidel PID (bez DP Praha),pro účely PH,,http://10.2.2.9/,Ropid
+Liftago API Driver Acceptance Model,pro účely PH,,https://docs.google.com/document/d/16Nyrhb7lPqTx6AtTuYLoPKQqWMDEgujJJfAkdbyAwa4/edit?usp=sharing,Liftago
+"Parkoviště, zóny placeného stání a parkomaty",otevřená data,3,http://opendata.praha.eu/dataset?tags=silni%C4%8Dn%C3%AD+doprava&_tags_limit=0,Institut pro plánování a rozvoj
+Parkoviště ve správě TSK,otevřená data,1,http://opendata.praha.eu/dataset/parkoviste,Technická správa komunikací
+Cyklistické trasy a značky,otevřená data,2,http://opendata.praha.eu/dataset?tags=cyklistick%C3%A1+doprava&_tags_limit=0,Institut pro plánování a rozvoj
+Generel cyklistických tras,otevřená data,1,http://opendata.praha.eu/dataset?q=cyklistick%C3%A9&sort=score+desc%2C+metadata_modified+desc,Institut pro plánování a rozvoj
+Přibližná aktuální poloha jednotlivých růžových kol,poloveřejné API,1,https://www.rekola.cz/api/mobile/trackables?apiversion=3.0.0&regions=1,Rekola
+Vydané Lítačky a Opencard,otevřená data,2,http://opendata.praha.eu/organization/operatorict,Operátor ICT
+Odtahy vozidel,otevřená data,2,http://opendata.praha.eu/dataset/sshmp-odtahy-vozidel,Hl. m. Praha
+Monitoring odbavování služeb MHMP - Bohdalec,(c) Hl. m. Praha,1,http://bohdalec.webcall.praha.eu/mon/wc-mon.php?co=0,Hl. m. Praha
+Monitoring odbavování služeb MHMP - Jarov,(c) Hl. m. Praha,1,http://jarov.webcall.praha.eu/mon/wc-mon.php?co=0,Hl. m. Praha
+Monitoring odbavování služeb MHMP - Vysočany,(c) Hl. m. Praha,1,http://vysocany.webcall.praha.eu/mon/wc-mon.php?co=0,Hl. m. Praha
+Monitoring odbavování služeb MHMP - Vyšehrad,(c) Hl. m. Praha,1,http://vysehrad.webcall.praha.eu/mon/wc-mon.php?co=0,Hl. m. Praha
+Monitoring odbavování služeb MHMP - Jungmannova,(c) Hl. m. Praha,1,http://jungmannova.webcall.praha.eu/mon/wc-mon.php?co=0,Hl. m. Praha
+Stav všech přepážek služeb MHMP - Bohdalec,(c) Hl. m. Praha,1,http://bohdalec.webcall.praha.eu/mon/wc-mon.php?co=1,Hl. m. Praha
+Stav všech přepážek služeb MHMP - Jarov,(c) Hl. m. Praha,1,http://jarov.webcall.praha.eu/mon/wc-mon.php?co=1,Hl. m. Praha
+Stav všech přepážek služeb MHMP - Vysočany,(c) Hl. m. Praha,1,http://vysocany.webcall.praha.eu/mon/wc-mon.php?co=1,Hl. m. Praha
+Stav všech přepážek služeb MHMP - Vyšehrad,(c) Hl. m. Praha,1,http://vysehrad.webcall.praha.eu/mon/wc-mon.php?co=1,Hl. m. Praha
+Stav všech přepážek služeb MHMP - Jungmannova,(c) Hl. m. Praha,1,http://jungmannova.webcall.praha.eu/mon/wc-mon.php?co=1,Hl. m. Praha
+Stav přepážek vydávajících Lítačku,(c) Hl. m. Praha,1,http://fronta.litacka.cz/,Hl. m. Praha
+Cyklosčítače,(c) CAMEA s.r.o.,,https://unicam.camea.cz/Discoverer/BikeCounter/index,
+Dovoz a registrace vozidel,(c) Ministerstvo dopravy,,http://www.mdcr.cz/cs/Silnicni_doprava/Dovoz_registrace_a_schvalovani_vozidel/Registrace+vozidel/Statistiky+vyplyvajici+z+Centr%C3%A1ln%C3%ADho+registru+vozidel/Statistika+2+2016/Statistika+2+2016.htm,
+,,,,
+VOLNÝ ČAS & VZDĚLÁVÁNÍ,,,,
+Sportoviště a kluby,otevřená data,1,http://opendata.praha.eu/dataset/sportoviste,Hl. m. Praha
+Výpůjčky v městské knihovně,otevřená data,1,http://opendata.praha.eu/dataset/mk-vypujcky,Městská knihovna
+"Lexikon zvířat, doprovodné akce a návštěvnost ZOO",otevřená data,3,http://opendata.praha.eu/organization/zoo,ZOO Praha
+Školy na Praze 8,otevřená data,3,http://opendata.praha.eu/organization/praha-8?q=%C5%A1kol&sort=score+desc%2C+metadata_modified+desc,MČ Praha 8
+Povolení k lovu a rybolovu,otevřená data,1,http://opendata.praha.eu/dataset/praha8-povoleni-k-lovu-a-rybolovu,MČ Praha 8
+Sportoviště a hřiště Praha 8,otevřená data,1,http://opendata.praha.eu/dataset/praha8-sportoviste,MČ Praha 8
+Seznam nemovitých kulturních památek ,CC BY-SA 3.0,1,https://cs.wikipedia.org/wiki/Seznam_kulturn%C3%ADch_pam%C3%A1tek_v_Praze,Wikipedia 
+Prázdné domy,,,https://prazdnedomy.cz/,
+Granty Hl. m. Prahy,pro účely PH,,http://10.2.2.9/,Hl. m. Praha
+Kulturní místa v Praze,pro účely PH,,http://10.2.2.9/,Hl. m. Praha
+,,,,
+DOBRÉ VLÁDNUTÍ & TRANSPARENTNOST,,,,
+Faktury 2011-2015,otevřená data,1,http://opendata.praha.eu/dataset/praha21-faktury,MČ Praha 21
+Faktury 2010-2015,otevřená data,1,http://opendata.praha.eu/dataset/faktury,MČ Praha 7
+Faktury 2015,otevřená data,1,http://opendata.praha.eu/dataset/p5-kniha-dorucenych-faktur,MČ Praha 5
+Faktury 2015,otevřená data,1,http://opendata.praha.eu/dataset/p6-faktury-2015,MČ Praha 6
+Platy a odměny,otevřená data,6,http://opendata.praha.eu/dataset/p6-platy-a-odmeny,MČ Praha 6
+Majetek ve správě MČ Praha 21,otevřená data,1,http://opendata.praha.eu/dataset/praha21-majetek2,MČ Praha 21
+Majetek ve správě MČ Praha 8,otevřená data,3,http://opendata.praha.eu/dataset?q=dlouhodob%C3%BD,MČ Praha 8
+Kvalita a dostupnost internetového pokrytí,otevřená data,1,https://www.netmetr.cz/cs/open-data.html,CZ.NIC
+"Tržní řád (seznam tržnic, tržišť, zahrádek a pouličních prodejních míst)",(c) Hl. m. Praha,1,http://www.praha.eu/file/2212866/narizeni_c._13.pdf,Hl. m. Praha
+"Protialkoholní vyhláška (vymezení míst, kde je zakázáno požívat alkohol)",(c) Hl. m. Praha,1,http://www.praha.eu/file/1594624/vyhlaska_c._11.pdf,Hl. m. Praha
+Volby a volební chování (2004-2014),otevřená data,xml,http://volby.cz/opendata/opendata.htm,Český statistický úřad
+Registr smluv,otevřená data,xml,https://data.smlouvy.gov.cz/,MVČR
+Edesky.cz,,,https://edesky.cz/api,edesky.cz
+ARES,,xml,http://wwwinfo.mfcr.cz/ares/ares_xml.html.cz,MF ČR
+,,,,
+ŽIVOTNÍ PROSTŘEDÍ & SOCIÁLNÍ SLUŽBY,,,,
+Zdroje znečištění ovzduší a bonita klimatu dle ovzduší,otevřená data,9,http://opendata.praha.eu/dataset?tags=ovzdu%C5%A1%C3%AD&_tags_limit=0,Institut pro plánování a rozvoj
+Hlukové mapy a protihluková opatření,otevřená data,5,http://opendata.praha.eu/dataset?tags=hluk&_tags_limit=0,Institut pro plánování a rozvoj
+Záplavová území a protipovodňová opatření,otevřená data,9,http://opendata.praha.eu/dataset?tags=z%C3%A1plavy&_tags_limit=0,Institut pro plánování a rozvoj
+Seznam meteočidel,otevřená data,1,http://opendata.praha.eu/dataset?tags=meterologie&_tags_limit=0,Technická správa komunikací
+Údržba komunikací,otevřená data,4,http://opendata.praha.eu/dataset?organization=tsk&tags=Praha&_tags_limit=0,Technická správa komunikací
+Územní systém ekologické stability,otevřená data,1,http://opendata.praha.eu/dataset?tags=ochrana+p%C5%99%C3%ADrody&_tags_limit=0,Institut pro plánování a rozvoj
+Stavební uzávěry,otevřená data,2,http://opendata.praha.eu/dataset?tags=%C3%BAzemn%C4%9B+spr%C3%A1vn%C3%AD+rozhodnut%C3%AD&_tags_limit=0,Institut pro plánování a rozvoj
+Veřejné toalety v MČ Praha 8,otevřená data,1,http://opendata.praha.eu/dataset/praha8-verejne-toalety,MČ Praha 8
+Odpadní zařízení pro občany,otevřená data,1,http://opendata.praha.eu/dataset/ipr-odpadni_zarizeni_pro_obcany,Institut pro plánování a rozvoj
+Ochranné pásmo památných stromů,otevřená data,1,http://opendata.praha.eu/dataset/ipr-ochranne_pasmo_pamatnych_stromu,Institut pro plánování a rozvoj
+Přírodní parky,otevřená data,1,http://opendata.praha.eu/dataset/ipr-prirodni_parky,Institut pro plánování a rozvoj
+Landsat / EarthExplorer,otevřená data,,http://earthexplorer.usgs.gov/,
+Data ČHMÚ - min. data o kvalitě ovzduší - mají API,,,http://portal.chmi.cz/files/portal/docs/uoco/web_generator/AIMdata_hourly.xml,
+Matar - stanice na letištích,,,http://meteo.rlp.cz/,
+,,,,
+PODKLADOVÁ DATA,,,,
+Mapové podklady ,otevřená data,29,http://opendata.praha.eu/dataset?organization=ipr&tags=mapov%C3%A9+podklady,Institut pro plánování a rozvoj
+"Urbanismus (využití ploch, liniová infrastruktura atd.)",otevřená data,12,http://opendata.praha.eu/dataset?tags=urbanismus,Institut pro plánování a rozvoj
+Územní plánování ,otevřená data,9,http://opendata.praha.eu/dataset?tags=%C3%BAzemn%C3%AD+pl%C3%A1nov%C3%A1n%C3%AD,Institut pro plánování a rozvoj
+RUIAN,otevřená data,,http://vdp.cuzk.cz/,ČÚZK
+Mapy.cz,otevřená data,,http://api.mapy.cz/,"Seznam.cz, a.s."
+API portál České spořitelny,,,https://developers.csas.cz/html/devs/index.html,"Česká spořitelna, a.s."
