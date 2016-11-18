@@ -8,6 +8,8 @@ http://www.otevrenadata.cz/otevrena-data/zdroje-dat/
 
 [Wunderman hackathon 2016](https://bigquery.cloud.google.com/dataset/skilled-acolyte-729:Wunderman)
 
+http://opendata.vse.cz/catalog/
+
 ## Města
 
 https://opendata.plzen.eu/dataset?_tags_limit=0
@@ -39,6 +41,8 @@ http://geoportal.rsd.cz/web
 ## Statistiky
 
 https://www.netmetr.cz/cs/open-data.html
+
+http://www.volby.cz/opendata/opendata.htm
 
 ## Bankovní služby
 
