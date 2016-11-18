@@ -15,6 +15,12 @@ http://blog.clevermaps.cz/post/136189567280/představujeme-žebř%C3%ADček-otev
 ### Brno
 https://datahub.io/organization/statutarni-mesto-brno
 
+### Děčín
+http://data.mmdecin.cz
+
+### Ostrava
+http://gisova.ostrava.cz/opendata/
+
 ### Praha
 http://www.geoportalpraha.cz/cs/opendata
 
