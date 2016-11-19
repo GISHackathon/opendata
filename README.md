@@ -62,6 +62,10 @@ https://research.google.com/tables?corpus=web&hl=en&q=czech+republic&sa=N&start=
 
 http://gisgeography.com/free-satellite-imagery-data-list/
 
+## Svět
+
+http://data.worldbank.org
+
 ## Může se hodit
 http://geojson.io
 
