@@ -4,6 +4,8 @@
 
 http://www.otevrenadata.cz/otevrena-data/zdroje-dat/
 
+[Mirror z Národního katalogu otevřených dat](http://linked.opendata.cz/)
+
 [Prague hacks 2016](https://docs.google.com/spreadsheets/d/1ap0yeKlkwC9VE490fgWqbN-DoUd6_dSBzFditrQPg4U/)
 
 [Wunderman hackathon 2016](https://bigquery.cloud.google.com/dataset/skilled-acolyte-729:Wunderman)
