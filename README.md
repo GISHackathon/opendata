@@ -64,6 +64,9 @@ https://research.google.com/tables?corpus=web&hl=en&q=czech+republic&sa=N&start=
 
 http://gisgeography.com/free-satellite-imagery-data-list/
 
+[Státní ústav pro kontrolu léčiv](https://opendata.sukl.cz)
+
+
 ## Svět
 
 http://data.worldbank.org
