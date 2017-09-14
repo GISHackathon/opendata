@@ -56,6 +56,8 @@ http://www.fio.cz/bankovni-sluzby/api-bankovnictvi
 
 https://developers.google.com/places/
 
+https://www.o2.cz/podnikatel/liberty-api/
+
 http://www.zmapovano.cz
 
 https://geocoder.opencagedata.com
